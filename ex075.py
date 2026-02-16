@@ -16,6 +16,7 @@ for c in range(1,5):
         tp = tp + (n,)
     t = t + (n,)
     cont+=1
+print (f'Os numeros digitados foram: {t}')
 if cnove != 0:
     print (f'O numero 9 aparece {cnove} vezes')
 else:
