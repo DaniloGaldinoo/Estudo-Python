@@ -11,7 +11,7 @@ else:
     sorteado = random.randint(0, 5)
     print ('P E N S A N D O . . .')
     sleep(3)
-    print (f'O numero sorteado foi: {sorteado}\nVocê escolheu o numero: {num}.')
+    print (f'O numero sorteado foi: {sorteado}\nVocê escolheu o n umero: {num}.')
 
     if sorteado == num:
         print('-------------------')
