@@ -1,6 +1,6 @@
-print('-----------------------')
-print('| ANO BISSEXTO OU NÃO |')
-print('-----------------------')
+print('------------------------')
+print('|* ANO BISSEXTO OU NÃO *|')
+print('------------------------')
 
 ano = int(input('Digite um ano: '))
 
