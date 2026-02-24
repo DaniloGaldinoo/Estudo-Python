@@ -1,5 +1,0 @@
-print('='*24)
-print('| CONVERSOR DE MEDIDAS |')
-print('='*24)
-n1 = int(input('Insira o valor em metros: '))
-print ('{} metros convertido em centimetros é: {} cm\n{} metros convertido em milimetros é: {} mm'.format(n1, n1*100, n1, n1*1000))
