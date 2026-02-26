@@ -13,6 +13,7 @@ for cont in range (5):
 
     if len(lista) == 0:
         lista.append(n)
+        print('Adicionado ao final da lista...')
     else:
         pos = 0
         while pos < len(lista) and n >lista[pos]:
