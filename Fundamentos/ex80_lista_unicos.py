@@ -6,7 +6,6 @@ Descrição: Permite ao usuário digitar vários valores,
 não adicionando duplicados, e exibe a lista final em ordem crescente.
 """
 
-continuar = 'S'
 valores = []
 
 while True:
